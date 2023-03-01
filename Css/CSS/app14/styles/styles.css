@@ -1,0 +1,19 @@
+/* last rule and specificity (*)universal selector* */
+.special
+{
+    color: green;
+}
+p{
+    color: red;
+}
+p{
+    color: blue;
+}
+#heading{
+    color: red;
+}
+*
+{
+    color: brown;
+
+}

@@ -1,0 +1,19 @@
+/* viewport units */
+/* vh- view height - percent of the screen */
+/* vh- view width - percent of the screen */
+/* by default browser adding the margin so we want to get rid that we use *  */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    background: green;
+    height: 20vh;
+    width: 80vw;
+}
+.about{
+    background: blue;
+    height: 50vh;
+    width: 100vw;
+}

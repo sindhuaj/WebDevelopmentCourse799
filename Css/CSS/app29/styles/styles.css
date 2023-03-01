@@ -1,0 +1,18 @@
+h1,p{
+    color: white;
+}
+h1{
+    background-color: red;
+    padding: 20px;
+    border: 0.5rem dotted yellow;
+    margin: 3rem;
+}
+p{
+    background: blue;
+    padding: 20px;
+    border: 0.5rem dotted yellow;
+    margin: 3rem;
+}
+*{
+    margin: 0px;
+}

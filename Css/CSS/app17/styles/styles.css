@@ -1,0 +1,13 @@
+/* RGBA A-OPACITY/taranparency 0-1 */
+#first
+{
+    color: rgba(255, 0, 0, 1);
+    background: rgba(124, 42, 42, 0.384);
+}
+#second{
+    color: rgba(255, 0, 0,0.25);
+    background: rgba(0, 0, 0, 0.75);
+}
+body{
+    background: rgba(218, 89, 0, 0.75);
+}
